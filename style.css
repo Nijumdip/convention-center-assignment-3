@@ -2,20 +2,20 @@
     font-family: 'Poppins', sans-serif;
 } */
 .manager-div-one{
-background-color: #4f52d8;
+background-color: #86bbe0;
 }
 .manager-div img{
 width: 100px;
 border-radius: 50%;
 }
-button{
+/* button{
     font-weight: bold;
     color: #14349e;
     border-radius: 8px;
     padding: 9px 25px;
     border: none;
     background-color: white;
-}
+} */
 button a{
     text-decoration: none;
 }
